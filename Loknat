@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mehdi Goftar Loknat</title>
+    <style>
+        body {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 { color: #f1c40f; }
+        p { max-width: 600px; margin: auto; }
+    </style>
+</head>
+<body>
+    <h1>Mehdi Goftar Loknat</h1>
+    <p>رپ اجتماعی، دلنوشت گفتار</p>
+    <p>با همکاری استودیو 1970</p>
+    <p>برای بازدید از موزیک‌ها و شعرها به اینستاگرام مراجعه کنید:</p>
+    <p><a href="https://instagram.com/mehdigoftar" style="color: #f1c40f;">@mehdigoftar</a></p>
+</body>
+</html>
